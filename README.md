@@ -80,6 +80,6 @@ If you see this then congratulations you now have a functioning GitHub account!
 
 Now you have your bright and shiny new GitHub account (or if you have had one for a while!) you need to let us know what it is using the form below!
 
-[GitHub Name Submission](https://forms.office.com/e/vy5JrPwZnQ)
+[GitHub Name Submission](https://canvas.hull.ac.uk/courses/74163/quizzes/60551)
 
 Providing us with your GitHub name allows us to give you assignments using GitHub Classroom, and also helps to ensure that any work you complete is not lost. It also allows us to give you access to repositories that have advanced features that you will need throughout your degree!
